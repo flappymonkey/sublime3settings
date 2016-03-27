@@ -5,10 +5,15 @@
 	],
 	"installed_packages":
 	[
+		"AutoFileName",
+		"Babel",
 		"BracketHighlighter",
 		"Color Highlighter",
+		"DocBlockr",
+		"JsFormat",
 		"Material Theme",
 		"Package Control",
-		"SideBarEnhancements"
+		"SideBarEnhancements",
+		"Vue Syntax Highlight"
 	]
 }
