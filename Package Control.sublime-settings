@@ -5,15 +5,30 @@
 	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"AutoFileName",
 		"Babel",
 		"BracketHighlighter",
 		"Color Highlighter",
+		"CSS3",
+		"CSScomb",
 		"DocBlockr",
-		"JsFormat",
+		"Emmet",
+		"ESLint",
+		"HTML-CSS-JS Prettify",
 		"Material Theme",
+		"Nettuts+ Fetch",
 		"Package Control",
+		"Pretty JSON",
+		"React Templates",
+		"Sass",
 		"SideBarEnhancements",
-		"Vue Syntax Highlight"
+		"SublimeLinter-jsxhint",
+		"Tag",
+		"Terminal",
+		"TrailingSpaces",
+		"Vue Syntax Highlight",
+		"Vuejs Complete Package",
+		"Vuejs Snippets"
 	]
 }
