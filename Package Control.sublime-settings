@@ -23,6 +23,8 @@
 		"React Templates",
 		"Sass",
 		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-jsxhint",
 		"Tag",
 		"Terminal",
